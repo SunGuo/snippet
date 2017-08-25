@@ -1,3 +1,5 @@
+[![](https://badge.juejin.im/entry/599f64a451882524444254cc/likes.svg?style=flat)](https://juejin.im/entry/599f64a451882524444254cc/detail)
+
 Surfingkeys是Chrome下的一个仿Vim式快捷键的插件，之前在Chrome下一直使用的是Vimium，最近使用国人开发的Surfingkeys后发现功能和用户体验上都要比Vimium强大很多倍，下面我就分享一下自己使用的心得，即使是之前没有接触过Vim的朋友也可以考虑上手一下这款插件，用熟练之后几乎可以完全放弃鼠标和触摸板了。
 
 同时对于大部分人想学习Vim的朋友而言，可能在初期因为陡峭的学习曲线所以很快就放弃了，我认为也可以用Surfingkeys作为一个跳板，在Chrome下面通过大量的实践来将常见的快捷键用熟。
