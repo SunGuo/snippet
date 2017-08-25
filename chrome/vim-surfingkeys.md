@@ -1,4 +1,4 @@
-[![](https://badge.juejin.im/entry/599f64a451882524444254cc/likes.svg?style=flat)](https://juejin.im/entry/599f64a451882524444254cc/detail)
+> 大家也可以在[掘金](https://juejin.im/entry/599f64a451882524444254cc/detail)下面对本文进行吐槽或者提交pr补充新的用法:-P
 
 Surfingkeys是Chrome下的一个仿Vim式快捷键的插件，之前在Chrome下一直使用的是Vimium，最近使用国人开发的Surfingkeys后发现功能和用户体验上都要比Vimium强大很多倍，下面我就分享一下自己使用的心得，即使是之前没有接触过Vim的朋友也可以考虑上手一下这款插件，用熟练之后几乎可以完全放弃鼠标和触摸板了。
 
@@ -68,6 +68,10 @@ Surfingkeys下载地址 -> [传送门](https://chrome.google.com/webstore/detail
 敲击`su`可以弹出来一个url编辑栏，可以编辑当前的url：
 
 ![](https://user-gold-cdn.xitu.io/2017/8/24/9e21e0058bbf60946e2880b0269a4983)
+
+## 设置书签
+
+有时候浏览网页的时候，我们经常需要在一个网页中不同的地方来回切换，通过鼠标来滚动太低效了，一来一回思路容易被打断。这个时候可以考虑使用surfingkeys提供的mark功能，我们可以先敲击`m`，然后后面任意接一个字母，以后我们想回到敲击`m`的这个位置，只需要敲击`'`(单引号)加上面接的那个字母就可以跳转到上一次做标记的地方，这个功能我用的很多，阅读长文时体验非常好。
 
 ## 选择模式
 
